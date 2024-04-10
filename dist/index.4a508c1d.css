@@ -12050,6 +12050,16 @@ p, a {
   font-size: 1.6rem;
 }
 
+li {
+  font-size: 15px;
+}
+
+li a.link {
+  color: #272341;
+  font-size: 15px;
+  text-decoration: underline;
+}
+
 a, a:link, a:hover, a:visited, a:active {
   text-decoration: none;
 }

@@ -10,6 +10,16 @@ a {
   font-size: $default-font-size;
 }
 
+li {
+  font-size: 15px;
+}
+
+li a.link {
+  font-size: 15px;
+  text-decoration: underline;
+  color: $dark-blue-text;
+}
+
 a,
 a:link,
 a:hover,
